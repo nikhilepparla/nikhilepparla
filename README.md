@@ -3,7 +3,7 @@
 <span><h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilepparla" alt="nikhilepparla" /></a> </p>
-
+<img src="https://www.facebook.com/photo/?fbid=530422780487978&set=a.263226010540991" alt ='Profile Picture'>
 <p align="left"> <a href="https://twitter.com/nikhilepparla" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilepparla?logo=twitter&style=for-the-badge" alt="nikhilepparla" /></a> </p></span>
 
 - 🔭 I’m currently working on **Maq Ai as mobile developer**
