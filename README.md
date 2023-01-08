@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Innominds as mobile developer**
 
-- 🌱 I’m currently learning **Android Architecture **
+- 🌱 I’m currently learning **Android Architecture**
 
 - 🤝 I’m looking for help with **Application Development**
 
