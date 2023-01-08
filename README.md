@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Nikhil</h1>
 
-<span><h3 align="center">A passionate frontend developer from India</h3>
+<span><h3 align="center">A passionate  developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilepparla" alt="nikhilepparla" /></a> </p>
 <p align="left"> <a href="https://twitter.com/nikhilepparla" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilepparla?logo=twitter&style=for-the-badge" alt="nikhilepparla" /></a> </p></span>
