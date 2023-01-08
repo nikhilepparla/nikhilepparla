@@ -5,13 +5,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilepparla" alt="nikhilepparla" /></a> </p>
 <p align="left"> <a href="https://twitter.com/nikhilepparla" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilepparla?logo=twitter&style=for-the-badge" alt="nikhilepparla" /></a> </p></span>
 
-- 🔭 I’m currently working on **Maq Ai as mobile developer**
+- 🔭 I’m currently working on **Innominds as mobile developer**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Android Architecture **
 
-- 🤝 I’m looking for help with **Front end developers**
+- 🤝 I’m looking for help with **Application Development**
 
-- 💬 Ask me about **React js , Flutter**
+- 💬 Ask me about **Android Frameworks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
