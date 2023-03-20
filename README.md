@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilepparla" alt="nikhilepparla" /></a> </p>
 <p align="left"> <a href="https://twitter.com/nikhilepparla" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilepparla?logo=twitter&style=for-the-badge" alt="nikhilepparla" /></a> </p></span>
 
-- 🔭 I’m currently working on **Innominds as mobile developer**
+- 🔭 I’m work as  **Mobile Developer @Innominds**
 
 - 🌱 I’m currently learning **Android Architecture**
 
